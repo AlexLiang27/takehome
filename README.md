@@ -1,6 +1,6 @@
-Alex Liang
+**Alex Liang**
 
-Workstream Take-Home Assignment
+**Workstream Take-Home Assignment**
 
 October 29th, 2024
 
@@ -11,7 +11,7 @@ Reads the CSV file of phone numbers, formats them, and stores them in a Postgres
 Utilizes the libphonenumber-js library to parse and format phone numbers
 
 
-SETUP:
+**SETUP:**
 
 REQUIRED PACKAGES: pg for Postgresql client, csv-parser for reading CSV files, libphonenumber-js for formatting phone numbers
 
@@ -22,7 +22,7 @@ npm install typescript @types/node --save-dev
 npx tsc --init
 
 
-Run the code with:
+**Run the code with:**
 
 npx tsc
 
