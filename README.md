@@ -29,6 +29,8 @@ npx tsc
 node dist/importPhoneNumbers.js
 
 
+**Notes**
+
 Remember to change the connectionString and the parse region
 
 If you want to drop (delete) the blacklist table, run this query in your pgAdmin sql terminal: DROP TABLE IF EXISTS blacklist
